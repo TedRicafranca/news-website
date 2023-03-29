@@ -1,0 +1,71 @@
+@mixin displayImg1() {
+    background-image: url('/assets/images/Image.png');       
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+@mixin displayImg2() {
+    background-image: url('/assets/images/Image-1.png');   
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+@mixin displayImg3() {
+    background-image: url('/assets/images/Image-2.png');   
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+@mixin displayImg4() {
+    background-image: url('/assets/images/Image-3.png');   
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+@mixin displayImg5() {
+    background-image: url('/assets/images/Image-4.png');   
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+@mixin displayImg6() {
+    background-image: url('/assets/images/Image-5.png');   
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+@mixin displayImg7() {
+    background-image: url('/assets/images/Image-6.png');   
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+@mixin displayImg8() {
+    background-image: url('/assets/images/Image-7.png');   
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+@mixin displayImg9() {
+    background-image: url('/assets/images/Image-8.png');   
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+@mixin displayHeartActive() {
+    background-image: url('/assets/images/heart-active.png');       
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+@mixin displayHeartHover() {
+    background-image: url('/assets/images/heart-hover.png');       
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+@mixin displayHeartNormal() {
+    background-image: url('/assets/images/heart-normal.png');       
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
